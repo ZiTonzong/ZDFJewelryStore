@@ -1,0 +1,97 @@
+/********************************************************************************
+综合评分 
+********************************************************************************/
+#discuss_list_wrapper .grade {
+	width: 95%;
+	border-bottom: 1px solid #c8c8c8;
+	overflow: hidden;
+	clear: both;
+}
+
+/********************************************************************************
+评价列表
+********************************************************************************/
+.grade_list {
+	width: 95%;
+	clear: both;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+.grade_list  li {
+	width: 95%;
+	margin-bottom: 20px;
+	clear: both;
+	overflow: hidden;
+}
+
+.grade_list  li.last {
+	margin-bottom: 0;
+}
+
+.grade_list  li .problem_pic {
+	overflow: hidden;
+	width: 80px;
+	height: 100px;
+	float: left;
+	display: inline;
+	background-color: #fff;
+}
+
+.grade_list  li .problem_pic span {
+	width: 80px;
+	height: 23px;
+	line-height: 23px;
+	text-align: center;
+	color: #77939f;
+	display: block;
+}
+
+.grade_list  li .problem_pic h2 {
+	width: 80px;
+	height: 23px;
+	line-height: 23px;
+	text-align: center;
+	font-weight: normal;
+	color: #000;
+}
+
+.grade_list  li .problem_right {
+	padding-bottom: 25px;
+	float: right;
+	display: inline;
+	background-color: #f5f5f5;
+	width: 90%;
+}
+
+.grade_list  .problem_time {
+	margin-top: 5px
+}
+
+.grade_list .suolue {
+	margin-left: 27px
+}
+
+.grade_list  li .problem_right h2 {
+	height: 53px;
+	padding-top: 17px;
+	font-weight: normal;
+	width: 591px;
+	text-align: right;
+	padding-right: 20px;
+}
+
+.grade_list  li .problem_right p {
+	width: 570px;
+	margin-left: 27px;
+	color: #000;
+	float: left;
+	line-height: 30px
+}
+
+.grade_list  li .problem_right span {
+	float: right;
+	margin-right: 10px
+}
+
+
