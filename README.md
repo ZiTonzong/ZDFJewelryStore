@@ -3,7 +3,7 @@
 
 ### 开发环境：Eclipse + Tomcat 9 + MySQL
 
-### 技术选型：JSP + Servlet + MySQL
+### 技术选型：JSP + Servlet + MySQL + HTML + CSS + Jquery
 
 ### 开发时间：2018.03 - 2018.05
 
